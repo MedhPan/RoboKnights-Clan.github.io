@@ -1,9 +1,178 @@
 export const alumni = [
   {
+    batch: "2025-26",
+    people: [
+      {
+        name: "Shaurya Markanda",
+        role: "President",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Abhinav Singh",
+        role: "President",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Yuvraj Matta",
+        role: "Core Member",
+        src: "",
+        socials: [
+          { type: "youtube", url: "https://m.youtube.com/channel/UCqr9DHvhR0r-JIoutyNFhxg" },
+          { type: "linkedin", url: "https://www.linkedin.com/in/yuvraj-matta-131764220" },
+        ],
+      },
+      {
+        name: "Aayush Gaur",
+        role: "Core Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Nabhay Khanna",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Karun Sharma",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Zonish Siddiqui",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Arya Jain",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+    ],
+  },
+  {
+    batch: "2024-2025",
+    people: [
+      {
+        name: "Twamadi Sar",
+        role: "President",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/twamadi/" },
+          { type: "github", url: "https://github.com/Twamadi" },
+          { type: "linkedin", url: "https://www.linkedin.com/in/twamadisar/" },
+        ],
+      },
+      {
+        name: "Shiven Kanodia",
+        role: "Director",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in/" },
+        ],
+      },
+      {
+        name: "Adhyann Singal",
+        role: "Core Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "S. Shrikirti",
+        role: "Core Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Mishaa Kalra",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/mishaa1109/" },
+          { type: "github", url: "https://github.com/Mishaa1109" },
+          { type: "linkedin", url: "https://www.linkedin.com/in/mishaa-kalra-513772222/" },
+        ],
+      },
+      {
+        name: "Mannat Kaur",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Rihit Wadhwa",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+      {
+        name: "Rishit Aggarwal",
+        role: "Member",
+        src: "",
+        socials: [
+          { type: "instagram", url: "https://www.instagram.com/" },
+          { type: "github", url: "https://github.com" },
+          { type: "linkedin", url: "https://www.linkedin.com/in" },
+        ],
+      },
+    ],
+  },
+    {
     batch: "2023-24",
     people: [
       {
-        name: "Swarnika Bhardwaj",
+       name: "Swarnika Bhardwaj",
         role: "President",
         src: "/images/members/Swarnika.jpg",
         socials: [
@@ -13,7 +182,7 @@ export const alumni = [
           },
         ],
       },
-     ],
+    ],
   },
   {
     batch: "2022-23",
